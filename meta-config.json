@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "serviceUrl": "https://api-nov.domain.com"
+  "serviceUrl": "https://api-nov.domain.com",
+  "alternativeUrls": [
+    "https://vidsrcme.ru/",
+    "https://vidsrcme.su/",
+    "https://vidsrc-me.ru/",
+    "https://vidsrc-me.su/",
+    "https://vidsrc-embed.ru/",
+    "https://vidsrc-embed.su/",
+    "https://vsrc.su/",
+    "https://vidsrc2.ru/"
+  ]
 }
